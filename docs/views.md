@@ -7,7 +7,7 @@
 ![new-session]
 
 ## User Profile
-![notes]
+![user-profile]
 
 ## Home Page
 ![homepage]
@@ -17,6 +17,6 @@
 
 [new-user]: ./wireframes/new_user.png
 [new-session]: ./wireframes/new_session.png
-[user-profile]: ./wireframes/root_notes.png
-[homepage]: ./wireframes/root_notebooks.png
-[profile-update]: ./wireframes/notebook_form.png
+[user-profile]: ./wireframes/Profile_Page.png
+[homepage]: ./wireframes/Root_Page.png
+[profile-update]: ./wireframes/Profile_Update.png

@@ -6,17 +6,17 @@
 ## New Session
 ![new-session]
 
-## NotesIndex / NoteIndexItem / NoteForm
+## User Profile
 ![notes]
 
-## NotebooksIndex / NotebookIndexItem
-![notebooks]
+## Home Page
+![homepage]
 
-## NotebookForm
-![notebook-form]
+## Update Profile Page
+![profile-update]
 
 [new-user]: ./wireframes/new_user.png
 [new-session]: ./wireframes/new_session.png
-[notes]: ./wireframes/root_notes.png
-[notebooks]: ./wireframes/root_notebooks.png
-[notebook-form]: ./wireframes/notebook_form.png
+[user-profile]: ./wireframes/root_notes.png
+[homepage]: ./wireframes/root_notebooks.png
+[profile-update]: ./wireframes/notebook_form.png
